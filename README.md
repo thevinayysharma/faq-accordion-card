@@ -22,8 +22,8 @@ Users should be able to:
 ### Links
 <hr>
 
-- [Live URL]()
-- [Code](https://github.com/thevinayysharma/frontend_mentors/tree/faq-accordion-card)
+- [Live URL](https://faqaccordioncrd.netlify.app/)
+- [Code](https://github.com/thevinayysharma/faq-accordion-card)
  
 ### Stuff Learned
 <hr>
