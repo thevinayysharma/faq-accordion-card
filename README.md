@@ -47,4 +47,4 @@ Users should be able to:
 <hr>
 
 - [codepen_solution](https://codepen.io/bobmatyas/pen/NWRWVeK?editors=1100) - This helped me to understand certain html tags. I really liked this approach and changed my div's to semantic-html tags using details & summary. 
-- [repo_solution](https://github1s.com/catherineisonline/faq-accordion-card-frontendmentor/blob/HEAD/styles.css#L227) helped to understand how background images and webkit can be used instead of hardcoding into html-->"# faq-accordion-card" 
+- [repo_solution](https://github1s.com/catherineisonline/faq-accordion-card-frontendmentor/blob/HEAD/styles.css#L227) helped to understand how background images and webkit can be used instead of hardcoding into html)
